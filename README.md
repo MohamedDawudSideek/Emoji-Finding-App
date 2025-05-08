@@ -13,5 +13,5 @@ Search for your favorite emojis here
 * CSS
 * Vite (Build tool)
   
-
+Visit this site - https://sanvidurath.github.io/Emoji-App/
 
