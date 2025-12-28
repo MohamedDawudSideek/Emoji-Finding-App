@@ -12,6 +12,4 @@ Search for your favorite emojis here
 * HTML
 * CSS
 * Vite (Build tool)
-  
-Visit this site - https://sanvidurath.github.io/Emoji-App/
 
